@@ -44,7 +44,7 @@
                                                 <td class="sorting_1">{{index+1}}</td>
                                                 <td>{{category.cat_name}}</td>
                                                 <td>{{category.created_at|dateformat}}</td>
-                                                <td><a href="">Edit</a> | <a href="" @click.prevent="deletecategory(category.id)">Delete</a></td>
+                                                <td><router-link :to="`/edit-category/${category.id}`">Edit</router-link> | <a href="" @click.prevent="deletecategory(category.id)">Delete</a></td>
                                             </tr>
                                             </tbody>
                                         </table>

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4895d5d-632c-4fe8-8a0d-99948a375f2e" name="Default Changelist" comment="" />
+    <list default="true" id="a4895d5d-632c-4fe8-8a0d-99948a375f2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/admin/category/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/admin/category/List.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/admin/category/View.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/admin/category/Edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/adminmaster.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/adminmaster.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +42,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Blade" />
-        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,7 +137,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UEkYJBn2h7iMoLjVBUcE8vUaD0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -180,10 +195,25 @@
       <workItem from="1575891869988" duration="3232000" />
       <workItem from="1575896400217" duration="3143000" />
       <workItem from="1575988300060" duration="1381000" />
+      <workItem from="1576253442863" duration="4751000" />
+      <workItem from="1576321325873" duration="1153000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
