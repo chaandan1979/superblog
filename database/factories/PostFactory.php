@@ -20,8 +20,7 @@ $factory->define(Post::class, function (Faker $faker) {
         'title' => $faker->sentence,
         'description' => $faker->paragraph,
         'cat_id' => rand(1,10),
-        'cat_id' => rand(1,10),
-        'user_id' => rand(1, 10),
+        'user_id' => 1,
         'photo' => $faker->imageUrl,
     ];
 });

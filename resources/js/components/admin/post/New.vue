@@ -1,5 +1,5 @@
 <template>
-<h2>New Component</h2>
+<h2>New Post Component</h2>
 </template>
 
 <script>
