@@ -59,4 +59,14 @@ npm install moment --save
 =============================
 php artisan key:generate
 for error "No Application Encryption Key Has Been Specified"
-===============================
+============git===================
+
+git init
+git remote add origin <gitlink>
+git remote -v
+git add .
+git commit -m "xxxx"
+git push origin master
+
+git help
+//======================
